@@ -1,0 +1,74 @@
+[
+  {
+    "questionNo": 1,
+    "question": "Sarah is standing at 5 and then she moves back. Complete the number sentence.",
+    "options":["5","-","","=","2"],
+    "answers": ["5","-","3","=","2"],
+    "secondImg":"./images/1.jpg"
+
+  },
+  {
+    "questionNo": 2,
+    "question": "Tom is standing at 7. He steps back and is now standing at 3. Complete the number sentence:",
+    "options":["7","-","","=","3"],
+    "answers": ["7","-","4","=","3"],
+    "secondImg":"./images/2.jpg"
+    
+  },
+  {
+    "questionNo": 3,
+    "question": " Complete the number sentence:",
+    "options":["17","-","","=","11"],
+    "answers": ["17","-","6","=","11"],
+    "secondImg":"./images/3.jpg"
+  },
+  {
+    "questionNo": 4,
+    "question": " Complete the number sentence:",
+    "options":["19","-","","=","15"],
+    "answers": ["19","-","4","=","15"],
+    "secondImg":"./images/4.jpg"
+  },
+  {
+    "questionNo": 5,
+    "question": "Complete the number sentence:",
+    "options":["28","-","","=","22"],
+    "answers": ["28","-","6","=","22"],
+    "secondImg":"./images/5.jpg"
+  },
+  {
+    "questionNo": 6,
+    "question": "Sarah started at 55 and moved back. Use the number line to complete the number sentence.",
+    "options":["55","-","","=",""],
+    "answers": ["55","-","5","=","50"],
+    "secondImg":"./images/6.jpg"
+  },
+  {
+    "questionNo": 7,
+    "question": "Tom is at 80 and started to move left. Complete the number sentence using the number line.",
+    "options":["80","-","","=",""],
+    "answers": ["80","-","5","=","75"],
+    "secondImg":"./images/7.jpg"
+  },
+  {
+    "questionNo": 8,
+    "question": "Tom and Sarah started at 85. Use the number line to complete the number sentence.",
+    "options":["85","-","","=",""],
+    "answers": ["85","-","10","-","75"],
+    "secondImg":"./images/8.jpg"
+  },
+  {
+    "questionNo": 9,
+    "question": "Tom was on 90 and moved  back.Use the number line to complete the number sentence.",
+    "options":["90","-","","=",""],
+    "answers": ["90","-","10","=","80"],
+    "secondImg":"./images/9.jpg"
+  },
+  {
+    "questionNo": 10,
+    "question": "If they both were standing on 35 and then moved left. Use number line to complete the number sentence",
+    "options":["35","-","","=",""],
+    "answers": ["35","-","10","=","25"],
+    "secondImg":"./images/10.jpg"
+  }
+]
